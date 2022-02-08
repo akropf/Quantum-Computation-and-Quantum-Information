@@ -13,6 +13,8 @@ I do this using the [system described by Nielsen himself](http://augmentingcogni
 ### Chapter 2
 - [x] [2.1: (Linear dependence: example)](Ch2/ex2-1.md)
 - [x] [2.2: (Matrix representations: example)](Ch2/ex2-2.md)
+- [x] [2.3: (Matrix representation for operator products)](Ch2/ex2-3.md)
+- [x] [2.4: (Matrix representation for identity)](https://quantumcomputing.stackexchange.com/questions/2487/nielsen-chuang-exercise-2-4-matrix-representation-for-identity) *external link*
 ## Problems
 *adviced by authors to wait with until one has read the rest of the book:*
 - [ ] Problem 1.1: (Feynman-Gates conversation)
