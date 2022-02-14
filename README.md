@@ -4,7 +4,7 @@ I do this using the [system described by Nielsen himself](http://augmentingcogni
 :milky_way:
 :open_book:
 ## Status:
-:orange_square::orange_square::orange_square::orange_square::orange_square::orange_square::orange_square::orange_square::orange_square::orange_square::orange_square::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
+:orange_square::orange_square::orange_square::orange_square::orange_square::orange_square::orange_square::orange_square::orange_square::orange_square::orange_square::orange_square::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:
 
 ## Exercises
 ### Chapter 1 
@@ -22,6 +22,9 @@ I do this using the [system described by Nielsen himself](http://augmentingcogni
 - [x] 2.9
 - [x] 2.10
 - [x] 2.11
+
+### Chapter 3
+- [x] 3.1
 ## Problems
 *adviced by authors to wait with until one has read the rest of the book:*
 - [ ] Problem 1.1: (Feynman-Gates conversation)
